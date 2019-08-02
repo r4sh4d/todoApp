@@ -1,0 +1,29 @@
+
+.buttonAdd {
+  padding: 16px;
+  width: 19%;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db;
+  margin-left: 6px;
+}
+
+.buttonDelete {
+  display: inline-block;
+  padding: 16px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 6px;
+  z-index: 999;
+  width: 19%;
+}
+
+.buttonFilterComplete {
+  width: 100%;
+  margin-top: 20px;
+  padding: 16px;
+  border: none;
+  border-radius: 5px;
+  background-color: #3498db;
+  margin-bottom: 20px;
+}
